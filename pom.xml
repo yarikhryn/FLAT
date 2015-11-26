@@ -53,10 +53,6 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-            <plugin>
                 <groupId>com.github.koraktor</groupId>
                 <artifactId>mavanagaiata</artifactId>
                 <version>0.7.2</version>
